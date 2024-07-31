@@ -1,0 +1,9 @@
+{
+    "name": "chrismccoy/popunderpress",
+    "description": "Popunder Press",
+    "license": "GPL",
+    "type": "project",
+    "require": {
+        "htmlburger/carbon-fields": "^3.6.2"
+    }
+}

@@ -1,0 +1,18 @@
+var wpSlideInParams = {
+  url: slidein.url.toString(),
+  contentUrl: slidein.content.toString(),
+  contentType: slidein.type.toString(),
+  width: slidein.width.toString(),
+  height: slidein.height.toString(),
+  timeout: slidein.timeout,
+  delayClose: slidein.delay,
+  clickStart: slidein.clickstart,
+  closeIntent: slidein.closeintent,
+  cookieName: slidein.cookie.toString(),
+  leadOut: slidein.lead,
+  animation: slidein.animation.toString(),
+  direction: slidein.direction.toString(),
+  verticalPosition: slidein.vert.toString(),
+  horizontalPosition: slidein.horiz.toString(),
+  expireDays: slidein.expire,
+};
