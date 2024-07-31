@@ -1,6 +1,6 @@
 {
-    "name": "chrismccoy/popunderpress",
-    "description": "Popunder Press",
+    "name": "chrismccoy/slideinpress",
+    "description": "Slide In Press",
     "license": "GPL",
     "type": "project",
     "require": {
